@@ -2,7 +2,7 @@ JSON IPTV Plug-in for Plex Media Center
 ---
 Inspired by the M3U8 IPTV plug-in from Cigaras.
 
-How to install the "KMTV beta" plugin for Plex Media Server?
+How to install the "JSON IPTV" plugin/channel on Plex Media Server?
 --
 
 Step 1:
@@ -41,10 +41,10 @@ Step 1:
 	https://support.plex.tv/hc/en-us/articles/201106098-How-do-I-find-the-Plug-Ins-folder-
 	
 Step 2:
-	Copy the file "kmtvbeta.bundle" inside that folder.
+	Copy the file "JSON IPTV.bundle" inside that folder.
 	
 Step 3:
-	Open the "kmtvbeta.bundle" folder and edit the file Contents/Code/__init__.py
+	Open the "JSON IPTV.bundle" folder and edit the file Contents/Code/__init__.py
 	Change the value of the variable on the first line (APIURL) to the URL you want to be your JSON back-end
 
 Step 4:
