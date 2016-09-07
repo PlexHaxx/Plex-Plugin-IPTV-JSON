@@ -39,6 +39,6 @@ https://example.com/jsoniptv/api.php?get_channels&category_id=1
 In Plain Text
 --
 
-https://example.com/jsoniptv/api.php?get_channels&category_id=1
+https://example.com/jsoniptv/api.php?get_m3u8_url&channel_id=1
 
 	https://example.com/playlist/index.m3u8
